@@ -2,7 +2,7 @@
 
 Los principios SOLID son un conjunto de cinco principios de diseño de software que ayudan a crear sistemas más mantenibles, escalables y flexibles([ver mas](https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start)). 
 
-![](/solid-principles/img/solid.png)
+![](/img/solid.png)
 
 ## Resumen de los principios
 
