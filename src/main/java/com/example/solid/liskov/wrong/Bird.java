@@ -1,4 +1,4 @@
-package com.example.liskov.substitution.principle;
+package com.example.solid.liskov.wrong;
 
 // Violación del principio
 public class Bird {

@@ -1,4 +1,4 @@
-package com.example.interfaces.segregation.principle.ok;
+package com.example.solid.interfaces.ok;
 
 // Aplicación del principio
 public interface Printable {

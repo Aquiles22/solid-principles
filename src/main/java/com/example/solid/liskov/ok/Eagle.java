@@ -1,4 +1,4 @@
-package com.example.liskov.substitution.principle;
+package com.example.solid.liskov.ok;
 
 public class Eagle implements FlyingBird {
     public void fly() {

@@ -1,4 +1,4 @@
-package com.example.solid.dependency.wrong;
+package com.example.solid.dependency;
 
 public class GasolineEngine implements Engine {
     public void start() {

@@ -1,4 +1,4 @@
-package com.example.interfaces.wrong;
+package com.example.solid.interfaces.wrong;
 
 // Violación del principio
 public interface Printer {

@@ -1,4 +1,4 @@
-package com.example.open.closed.principle;
+package com.example.solid.open;
 
 public class Payment {
 

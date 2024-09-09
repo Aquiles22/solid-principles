@@ -1,4 +1,4 @@
-package com.example.solid.dependency.wrong;
+package com.example.solid.dependency;
 
 public interface Engine {
     void start();

@@ -1,4 +1,6 @@
-package com.example.open.closed.principle;
+package com.example.solid.open.ok;
+
+import com.example.solid.open.Payment;
 
 // Aplicación del principio
 public interface PaymentProcessor {

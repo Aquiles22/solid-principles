@@ -1,4 +1,6 @@
-package com.example.open.closed.principle;
+package com.example.solid.open.ok;
+
+import com.example.solid.open.Payment;
 
 public class PayPalPaymentProcessor implements PaymentProcessor {
     public void processPayment(Payment payment) {

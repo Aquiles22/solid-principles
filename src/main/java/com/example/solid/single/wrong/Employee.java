@@ -1,4 +1,4 @@
-package com.example.single.responsibility.principle;
+package com.example.solid.single.wrong;
 
 // Violación del principio
 public class Employee {

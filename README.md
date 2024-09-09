@@ -1,2 +1,4 @@
-# solid-principles
-Proyecto de ejemplo para ilustrar los principios SOLID
+# Principios SOLID
+
+Los principios SOLID son un conjunto de cinco principios de diseño de software que ayudan a crear sistemas más mantenibles, escalables y flexibles.
+
